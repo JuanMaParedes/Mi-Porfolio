@@ -239,6 +239,15 @@ header .logo
   height: 6rem ;
   
 }
+#conocimientos{
+  margin-top: 3rem;
+}
+#portafolio{
+  margin-top: 3rem;
+}
+#contacto{
+  margin-top: 3rem;
+}
 
 @media (max-width: 900px)
 {
